@@ -1,0 +1,13 @@
+{
+  "name": "morning-brief",
+  "version": "1.0.0",
+  "description": "Telegram morning brief bot — weather, calendar, health tech news",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "googleapis": "^144.0.0"
+  }
+}
