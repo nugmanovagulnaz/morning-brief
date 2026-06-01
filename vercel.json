@@ -1,10 +1,5 @@
 {
-  "crons": [
-    {
-      "path": "/api/morning-brief",
-      "schedule": "0 7 * * *"
-    }
-  ],
+  "crons": [],
   "functions": {
     "api/morning-brief.js": {
       "maxDuration": 60
